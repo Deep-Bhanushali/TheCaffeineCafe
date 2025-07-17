@@ -22,7 +22,7 @@ A modern, responsive website for a coffee shop called **The Caffeine Cafe**. Bui
 
 - **HTML5**
 - **Tailwind CSS**
-- **Vanilla JavaScript**
+- **JavaScript**
 
 ---
 
