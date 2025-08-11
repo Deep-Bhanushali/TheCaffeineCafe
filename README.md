@@ -1,6 +1,6 @@
 # ☕ The Caffeine Cafe
 
-Live Site: [thecaffeinecafe.vercel.app](https://thecaffeinecafe.vercel.app/)  
+Live Site: [thecaffeinecafe.vercel.app](https://the-caffeine-cafe.vercel.app/)  
 GitHub Repo: [github.com/Deep-Bhanushali/TheCaffeineCafe](https://github.com/Deep-Bhanushali/TheCaffeineCafe)
 
 A modern, responsive website for a coffee shop called **The Caffeine Cafe**. Built using **HTML**, **Tailwind CSS**, and **JavaScript**, the site includes dynamic features such as an image carousel, tabbed menu, interactive gallery, FAQs accordion, and a contact form with validation.
